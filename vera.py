@@ -1,0 +1,1 @@
+print('vera\nsalut à tous!')
